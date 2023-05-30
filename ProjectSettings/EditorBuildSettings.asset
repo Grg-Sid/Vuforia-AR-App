@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AppDesign/HomeScreen.unity
+    guid: 20f7cd980c467cc48aa1d531cee8af4e
+  - enabled: 1
+    path: Assets/Scenes/AppDesign/ARscene.unity
+    guid: 94fc6cce3facdb745bc1bd7f197a3029
+  - enabled: 1
+    path: Assets/Scenes/AppDesign/ARGame.unity
+    guid: d8f3fcb948e43ff4889752982ef7cf9e
+  m_configObjects: {}
