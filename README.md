@@ -35,10 +35,6 @@ This is a simple Vuforia image tracking app that demonstrates the usage of Vufor
 - [Vuforia Developer Portal](https://developer.vuforia.com/): Access Vuforia documentation, tutorials, and additional resources.
 - [Unity Documentation](https://docs.unity3d.com/): Explore Unity's official documentation for guidance on using Unity 3D.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 This app was developed using the Vuforia SDK, which is a product of PTC Inc. We acknowledge their contribution to the augmented reality development community.
